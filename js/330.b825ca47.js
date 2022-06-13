@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[330],{3782:function(t,e,n){n.r(e),n.d(e,{default:function(){return o}});var r=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"container"},[n("h1",{staticClass:"text-center text-color white"},[t._v("BIENVENIDO! "),n("br"),n("br"),t._v(" "+t._s(t.usuario.email)+" ")])])},u=[],c=n(4665),i={name:"Inicio",computed:{...(0,c.rn)(["usuario"])}},l=i,s=n(1001),a=(0,s.Z)(l,r,u,!1,null,null,null),o=a.exports}}]);
+//# sourceMappingURL=330.b825ca47.js.map
